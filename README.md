@@ -1,0 +1,1 @@
+I will be creating a method that returns a hash of all the substrings of a string with their corresponding number of occurences.
